@@ -138,7 +138,7 @@ p{
     font-size: 1rem;
     color:var(--text-gray);
     line-height: 1.625rem;
-} 
+}
 .card{
     border-radius: .625rem;
     background-color:var(--bg-white);
