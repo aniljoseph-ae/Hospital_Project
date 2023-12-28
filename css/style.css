@@ -382,8 +382,7 @@ p{
 
 /*8 Gallery Section */
 .gallery_wrapper{
-    background-image:url('../images/gallery/gallery-background.webp');
-    /* ('../images/gallery/gallery-background.webp'); */
+    background-image: url('./images/gallery-background.webp');
     background-repeat: no-repeat;
     background-position:center;
     background-size:cover;
@@ -399,7 +398,7 @@ p{
 
 /* appointment */
 .appointment_wrapper {
-    background-image: url('../images/appointmnet-bg.jpg');
+    background-image: url('../images/appointmnetbg.webp');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
