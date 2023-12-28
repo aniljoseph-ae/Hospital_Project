@@ -205,7 +205,7 @@ p{
 
 /* 3 Banner */
 .banner_wrapper{
-    background-image:url('../images/top-banner-img/Top-banner.jpg');
+    background-image:url('../images/top-banner-img/Top-banner.webp');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -217,7 +217,7 @@ p{
 
 .banner_wrapper .top-right-sec{
     position:relative;
-    background-image:url('../images/top-banner-img/top-right-bg.png');
+    background-image:url('../images/top-banner-img/top-right-bg.webp');
     background-repeat: no-repeat;
     background-position: bottom;
     background-size: contain;
@@ -382,7 +382,7 @@ p{
 
 /*8 Gallery Section */
 .gallery_wrapper{
-    background-image: url('./images/gallery-background.webp');
+    background-image: url('../images/gallery-background.webp');
     background-repeat: no-repeat;
     background-position:center;
     background-size:cover;
@@ -398,7 +398,7 @@ p{
 
 /* appointment */
 .appointment_wrapper {
-    background-image: url('../images/appointmnetbg.webp');
+    background-image: url('../images/appointmnet-bg.webp');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
