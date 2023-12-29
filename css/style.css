@@ -493,3 +493,16 @@ p{
     font-weight: 600;
 }
 
+
+
+/* Form Validation */
+
+.form-group {
+    max-width: 300px; /* Adjust the width as needed */
+    margin: 0 auto;
+    text-align: center;
+}
+
+.error-message {
+    color: red;
+}

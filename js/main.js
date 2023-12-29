@@ -16,3 +16,14 @@ navBar.forEach(function(a){
         navCollapse.classList.remove("show");
     })
 })
+
+
+//  Form Validation
+
+function validateForm() {
+    let x = document.forms["form-group"]["email"].value;
+    if (x == "") {
+      alert("Name must be filled out");
+      return false;
+    }
+  }
